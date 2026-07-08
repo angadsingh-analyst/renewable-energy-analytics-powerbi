@@ -1,0 +1,4 @@
+Microsoft Power BI Desktop
+Power Query
+Microsoft Word or LibreOffice
+CSV/Excel-compatible energy datasets
